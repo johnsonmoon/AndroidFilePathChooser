@@ -1,2 +1,5 @@
 # AndroidFilePathChoser
-File or director chooser for Android
+
+File or directory chooser for Android
+<br>
+文件路径选择器App for android
